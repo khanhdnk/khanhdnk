@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dang Nam Khanh</h1>
-<h3 align="center">A fullstack web developer.<br><br> Im' studying computer science - software development at Swinburne University VietNam</h3>
+<h3 align="center">A fullstack web developer.<br><br> I'm studying computer science - software development at Swinburne University VietNam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
